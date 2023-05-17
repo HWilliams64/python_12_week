@@ -42,10 +42,10 @@ module. Here's a breakdown of how the modules are structured:
    - Inside the module folder, you'll find a file called `learning_material.md`
      that contains links to all the recommended learning materials and
      additional resources related to that specific module. 
-   - Additionally, you'll find two folders: `notebooks` and `practice`.
+   - Additionally, you'll find two folders: `learn` and `practice`.
 
-2. Notebooks Folder:
-   - The "notebooks" folder within each module contains Jupyter notebooks
+2. Learn Folder:
+   - The `learn` folder within each module contains Jupyter notebooks
      dedicated to explaining the topics covered in that module. 
    - These notebooks provide detailed explanations, code examples, and
      step-by-step demonstrations of key concepts. 
@@ -53,7 +53,7 @@ module. Here's a breakdown of how the modules are structured:
      the practical implementation of the module's topics. 
 
 3. Practice Folder:
-   - The "practice" folder within each module consists of notebooks that contain
+   - The `practice` folder within each module consists of notebooks that contain
      example problems related to the topics covered in that module. 
    - These notebooks offer practice exercises to solidify your understanding of
      the concepts and improve your problem-solving skills. 
@@ -66,57 +66,57 @@ module. Here's a breakdown of how the modules are structured:
 The course is divided into several modules, each covering a specific topic.
 Here's a brief overview of what you'll learn in each module: 
 
-1. Orientation:
+**1. [Orientation](https://github.com/HWilliams64/summer_python_12_week/01_orientation/learning_material.md):**
    - Learn how to access your workspace.
    - Understand the process of creating a Python file.
    - Discover how to run a Python file.
 
-2. Basics:
+**2. Basics:**
    - Master the skill of assigning data to variables.
    - Explore techniques for printing text to the console.
    - Develop applications that accept user input and assign it to variables.
 
-3. If Statements:
+**3. If Statements:**
    - Create logical expressions.
    - Utilize if statements to branch your code based on logical conditions.
    - Employ elif/else statements to complete your logical blocks.
 
-4. Loops:
+**4. Loops:**
    - Learn to create for and while loops.
    - Utilize loops to create a Read Event Print Loop (REPL) for interactive programming.
 
-5. Functions:
+**5. Functions:**
    - Understand functional parameters and their usage.
    - Document your functions effectively.
    - Explore function return values and default parameters.
 
-6. Data Structures:
+**6. Data Structures:**
    - Work with lists, tuples, sets, and dictionaries effectively.
 
-7. Object-Oriented Programming:
+**7. Object-Oriented Programming:**
    - Grasp the concept of objects and their characteristics.
    - Differentiate between methods and functions.
    - Understand getters, setters, and local/instance variables.
 
-8. File I/O:
+**8. File I/O:**
    - Utilize context managers for efficient file handling.
    - Learn to read text files and work with JSON data in Python.
 
-9. Error Handling:
+**9. Error Handling:**
    - Handle and raise errors appropriately.
    - Implement cleanup procedures using context managers.
 
-10. Web:
+**10. Web:**
     - Understand the basics of HTTP and web APIs.
     - Learn how to connect to a web API and retrieve data.
 
-11. Graphical User Interfaces:
+**11. Graphical User Interfaces:**
     - Get introduced to Tkinter for building GUI applications.
     - Explore event programming and functional programming concepts.
     - Create labels, buttons, and other interactive widgets.
     - Work with multiple windows in your applications.
 
-12. Open Source Code:
+**12. Open Source Code:**
     - Set up virtual environments for Python projects.
     - Utilize PIP for package management.
     - Install and use open-source packages effectively.
