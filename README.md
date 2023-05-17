@@ -71,7 +71,7 @@ Here's a brief overview of what you'll learn in each module:
    - Understand the process of creating a Python file.
    - Discover how to run a Python file.
 
-**2. Basics:**
+**2. [Basics](./02_basics/learning_material.md):**
    - Master the skill of assigning data to variables.
    - Explore techniques for printing text to the console.
    - Develop applications that accept user input and assign it to variables.
