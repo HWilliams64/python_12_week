@@ -37,9 +37,31 @@ help you apply the learned concepts in practical scenarios. By the end of the
 module, you will be equipped with the essential knowledge and skills needed to
 embark on your Python programming journey with confidence. 
 
+## What to work on?
+
+1. Start by working through the [ReadMe.ipynb](../../ReadMe.ipynb) file in the
+   root directory of your Workspace IDE. It will help you understand how jupyter
+   notebooks work.
+
+2. Watch the `Intro to Grader Than` video in the Technologies and Support
+   section of the LMS. 
+
+3. Create and run your own python file by following directions in the video
+   above or in the
+   [create_and_run.ipynb](./learn/01_create_and_run.ipynb)
+
+4. Learn how to use the python turtle package by following
+   [turtle.ipynb](./learn/02_turtle.ipynb) notebook.
+   
+5. Submit the orientation assignment on Grader Than.
+
 ## Deliverables
 
-Make sure you have created your Grader Than account and accessed our course's workspace.
+- Make sure you have created your Grader Than account 
+  
+- Accessed our course's workspace
+  
+- Submit the orientation assignment on Grader Than
 
 ## Video Material
 
