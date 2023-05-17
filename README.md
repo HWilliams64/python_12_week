@@ -66,7 +66,7 @@ module. Here's a breakdown of how the modules are structured:
 The course is divided into several modules, each covering a specific topic.
 Here's a brief overview of what you'll learn in each module: 
 
-**1. [Orientation](https://github.com/HWilliams64/summer_python_12_week/01_orientation/learning_material.md):**
+**1. [Orientation](./01_orientation/learning_material.md):**
    - Learn how to access your workspace.
    - Understand the process of creating a Python file.
    - Discover how to run a Python file.
