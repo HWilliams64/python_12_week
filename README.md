@@ -76,7 +76,7 @@ Here's a brief overview of what you'll learn in each module:
    - Explore techniques for printing text to the console.
    - Develop applications that accept user input and assign it to variables.
 
-**3. If Statements:**
+**3. [Branch Statements](./03_branch_statements/learning_material.md)**
    - Create logical expressions.
    - Utilize if statements to branch your code based on logical conditions.
    - Employ elif/else statements to complete your logical blocks.
@@ -107,19 +107,19 @@ Here's a brief overview of what you'll learn in each module:
    - Implement cleanup procedures using context managers.
 
 **10. Web:**
-    - Understand the basics of HTTP and web APIs.
-    - Learn how to connect to a web API and retrieve data.
+   - Understand the basics of HTTP and web APIs.
+   - Learn how to connect to a web API and retrieve data.
 
 **11. Graphical User Interfaces:**
-    - Get introduced to Tkinter for building GUI applications.
-    - Explore event programming and functional programming concepts.
-    - Create labels, buttons, and other interactive widgets.
-    - Work with multiple windows in your applications.
+   - Get introduced to Tkinter for building GUI applications.
+   - Explore event programming and functional programming concepts.
+   - Create labels, buttons, and other interactive widgets.
+   - Work with multiple windows in your applications.
 
 **12. Open Source Code:**
-    - Set up virtual environments for Python projects.
-    - Utilize PIP for package management.
-    - Install and use open-source packages effectively.
+   - Set up virtual environments for Python projects.
+   - Utilize PIP for package management.
+   - Install and use open-source packages effectively.
 
 This repository is your comprehensive resource for learning Python in a
 structured and engaging manner. Dive into the materials, follow the modules
