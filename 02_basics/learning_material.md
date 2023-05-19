@@ -41,10 +41,6 @@ with users, performing basic arithmetic calculations, and manipulating
 strings—skills that are foundational for further Python programming and data
 manipulation tasks.
 
-## Video Material
-
-
-
 ## Reading Material
 
 [Slides discussing variables](https://docs.google.com/presentation/d/1IgQqtiNDciY9Gjq3nmxchwS0OEJoPinDbbglX4laHmQ/edit?usp=sharing)

@@ -41,3 +41,25 @@ understanding and strengthen your skills. By the end of this module, you will be
 equipped with the knowledge and practical experience needed to effectively
 create logical expressions and implement conditional statements in your Python
 code, enabling you to build more sophisticated and flexible applications. 
+
+## Notebooks
+
+[Logical Expressions](./learn/01_logical_expressions.ipynb)
+
+[Branch Statements](./learn/02_branch_statements.ipynb)
+
+[Comparison](./learn/03_comparison.ipynb)
+
+[Easy Logic](./learn/04_easy_logic.ipynb)
+
+## Reading Material
+
+[Slides discussing formatting and flow control](https://docs.google.com/presentation/d/1kv_vDPj8qVTa7y7weHdO9Cwqso_9lL8_XPdgG7hWMn4/edit?usp=sharing)
+
+[True Value Testing](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
+
+[Boolean Operations](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+
+[Comparisons](https://docs.python.org/3/library/stdtypes.html#comparisons)
+
+[If Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
