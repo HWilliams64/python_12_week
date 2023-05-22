@@ -41,6 +41,17 @@ with users, performing basic arithmetic calculations, and manipulating
 strings—skills that are foundational for further Python programming and data
 manipulation tasks.
 
+## Notebooks
+
+[Variables](./learn/01_variables.ipynb)
+
+[Strings](./learn/02_strings.ipynb)
+
+[Arithmetic Operators](./learn/03_arithmetic.ipynb)
+
+[String Indexing](./learn/04_string_indexing_and_slicing.ipynb)
+
+
 ## Reading Material
 
 [Slides discussing variables](https://docs.google.com/presentation/d/1IgQqtiNDciY9Gjq3nmxchwS0OEJoPinDbbglX4laHmQ/edit?usp=sharing)
