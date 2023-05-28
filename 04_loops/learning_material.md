@@ -34,9 +34,7 @@ Remember to practice writing clean and concise code, and to challenge yourself b
 
 [For Loops](./learn/02_for_loops.ipynb)
 
-[String Indexing](./learn/03_comparison.ipynb)
-
-[Loop Control Keywords](./learn/04_easy_logic.ipynb)
+[Loop Control Keywords](./learn/03_control_keywords.ipynb)
 
 ## Reading Material
 
