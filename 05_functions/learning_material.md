@@ -1,3 +1,27 @@
+<style>
+p {
+  max-width: 992px;
+}
+pre {
+  max-width: 992px;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.6rem;
+}
+h3 {
+  font-size: 2.2rem;
+}
+h4 {
+  font-size: 1.8rem;
+}
+h5 {
+  font-size: 1.6rem;
+}
+</style>  
+
 # Module Overview: Functions in Python
 
 Welcome to the Functions in Python module! In this module, you will dive into the world of functions and explore their power and versatility in Python. Functions are an essential building block of programming, allowing you to organize and reuse code effectively. We will cover key topics such as defining functions, utilizing return values, working with default parameters, leveraging function type hints and documentation, and calling functions with positional and keyword arguments.
