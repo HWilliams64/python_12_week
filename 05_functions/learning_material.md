@@ -39,11 +39,11 @@ Welcome to the Functions in Python module! In this module, you will dive into th
    - Understand the significance of return values in program flow and logic.
    - Practice writing functions that return meaningful results.
 
-3. Default Parameters:
-   - Learn how to define functions with default parameter values.
-   - Understand the benefits of default parameters for flexible function usage.
-   - Explore techniques for overriding default parameters when needed.
-   - Practice creating functions with default parameters to enhance code flexibility.
+3. Default Argument:
+   - Learn how to define functions with default argument values.
+   - Understand the benefits of default arguments for flexible function usage.
+   - Explore techniques for overriding default arguments when needed.
+   - Practice creating functions with default arguments to enhance code flexibility.
 
 4. Function Type Hints and Documenting:
    - Discover the benefits of adding type hints to function parameters and return values.
@@ -65,11 +65,13 @@ Remember to practice writing clean and reusable code, and challenge yourself by 
 
 [Functions](./learn/01_functions.ipynb)
 
-[Type hints and Documenting](./learn/02_doc_strings.ipynb)
+[Calling Functions](./learn/02_calling_functions.ipynb)
 
-[Functions Advanced Topics](./learn/03_functions_advanced.ipynb)
+[Default Arguments](./learn/03_default_arguments.ipynb)
 
-[Lambda](./learn/04_lambda.ipynb)
+[Type hints and Documenting](./learn/04_documenting.ipynb)
+
+[Lambda](./learn/05_lambda.ipynb)
 
 ## Reading Material
 
