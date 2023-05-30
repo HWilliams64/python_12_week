@@ -66,6 +66,10 @@ Remember to practice writing clean and efficient code, and challenge yourself by
 
 [Dictionaries](./learn/04_dictionaries.ipynb)
 
+[List Comprehension](./learn/05_list-comprehension.ipynb)
+
+[Dictionary Comprehension](./learn/06_dict_comprehension.ipynb)
+
 ## Reading Material
 
 [Slide Discussing data structures](https://docs.google.com/presentation/d/19kgaOWyAxzPSDOrQEeEq8-Fd-JAoddw4x_8ms29sYJM/edit?usp=sharing)
