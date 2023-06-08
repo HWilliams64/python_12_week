@@ -76,24 +76,24 @@ Here's a brief overview of what you'll learn in each module:
    - Explore techniques for printing text to the console.
    - Develop applications that accept user input and assign it to variables.
 
-**3. [Branch Statements](./03_branch_statements/learning_material.md)**
+**3. [Branch Statements](./03_branch_statements/learning_material.md):**
    - Create logical expressions.
    - Utilize if statements to branch your code based on logical conditions.
    - Employ elif/else statements to complete your logical blocks.
 
-**4. Loops:**
+**4. [Loops](./04_loops/learning_material.md):**
    - Learn to create for and while loops.
    - Utilize loops to create a Read Event Print Loop (REPL) for interactive programming.
 
-**5. Functions:**
+**5. [Functions](./05_functions/learning_material.md):**
    - Understand functional parameters and their usage.
    - Document your functions effectively.
    - Explore function return values and default parameters.
 
-**6. Data Structures:**
+**6. [Data Structures](./06_data_structures/learning_material.md):**
    - Work with lists, tuples, sets, and dictionaries effectively.
 
-**7. Object-Oriented Programming:**
+**7. [Object-Oriented Programming](./07_objects/learning_material.md):**
    - Grasp the concept of objects and their characteristics.
    - Differentiate between methods and functions.
    - Understand getters, setters, and local/instance variables.
