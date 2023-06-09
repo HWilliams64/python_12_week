@@ -98,12 +98,17 @@ Here's a brief overview of what you'll learn in each module:
    - Differentiate between methods and functions.
    - Understand getters, setters, and local/instance variables.
 
-**8. File I/O:**
+**8. [File I/O](./08_file_io/learning_material.md):**
+   - Learn to read and write text files
    - Utilize context managers for efficient file handling.
-   - Learn to read text files and work with JSON data in Python.
+   - Learn to read and write text JSON files.
+   - Learn to read and write text CSV files.
 
-**9. Error Handling:**
-   - Handle and raise errors appropriately.
+**9. [Error Handling](./09_error_handling/learning_material.md):**
+   - Handle errors with try except blocks 
+   - Review common python errors.
+   - Raise errors appropriately.
+   - Implement cleanup procedures using finally blocks.
    - Implement cleanup procedures using context managers.
 
 **10. Web:**
