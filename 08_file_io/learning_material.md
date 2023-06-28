@@ -78,10 +78,6 @@ Remember to strive for clean and efficient code, and to challenge yourself by so
 
 ## Reading Material
 
-[Slide discussing classes and objects](https://docs.google.com/presentation/d/1CL1a69P9C7DcliDA691aLY31s_lgNDAUraCU5z7L8Dc/edit?usp=sharing)
+[Slides discussing Reading and Writing to File](https://docs.google.com/presentation/d/1vphdkWSPbaoFJT-ncliScilnc7qu_cZa2ECu-elq7C4/edit?usp=sharing)
 
-[Classes](https://docs.python.org/3/tutorial/classes.html#classes)
-
-[Scopes and Namespaces](https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
-
-[Classes](https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes)
+[Slides discussing JSON](https://docs.google.com/presentation/d/1RprVxXgRvGi9TnE8NPRavIsT89SFsN_6Xb4INEJK-vU/edit?usp=sharing)
