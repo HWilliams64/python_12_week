@@ -81,3 +81,7 @@ Remember to strive for clean and efficient code, and to challenge yourself by so
 [Slides discussing Reading and Writing to File](https://docs.google.com/presentation/d/1vphdkWSPbaoFJT-ncliScilnc7qu_cZa2ECu-elq7C4/edit?usp=sharing)
 
 [Slides discussing JSON](https://docs.google.com/presentation/d/1RprVxXgRvGi9TnE8NPRavIsT89SFsN_6Xb4INEJK-vU/edit?usp=sharing)
+
+[Json](https://www.json.org/json-en.html)
+
+[Reading and Writing CSV](https://docs.python.org/3/library/csv.html)
