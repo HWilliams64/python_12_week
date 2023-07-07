@@ -77,10 +77,6 @@ As always, aim for clean and maintainable code, and be sure to challenge yoursel
 
 ## Reading Material
 
-[Slide discussing classes and objects](https://docs.google.com/presentation/d/1CL1a69P9C7DcliDA691aLY31s_lgNDAUraCU5z7L8Dc/edit?usp=sharing)
+[Slide discussing error handling](https://docs.google.com/presentation/d/1h7MEyrcPu4Aym6Yps0_eTclWK2L-3OXVhZDstw1mHcY/edit?usp=drive_link)
 
-[Classes](https://docs.python.org/3/tutorial/classes.html#classes)
-
-[Scopes and Namespaces](https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
-
-[Classes](https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes)
+[Error and Exceptions in Python](https://docs.python.org/3/tutorial/errors.html)
