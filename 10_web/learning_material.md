@@ -58,20 +58,8 @@ Remember to always follow best practices for web programming, including handling
 
 ## Notebooks
 
-[HTTP Requests](./learn/01_http_requests.ipynb)
+[HTTP Requests](./learn/01_http_basics.md)
 
-[Web API](./learn/02_web_api.ipynb)
+[Request Basics](./learn/02_requests_basics.ipynb)
 
-[Downloading Files](./learn/03_download.ipynb)
-
-
-
-## Reading Material
-
-[Slide discussing classes and objects](https://docs.google.com/presentation/d/1CL1a69P9C7DcliDA691aLY31s_lgNDAUraCU5z7L8Dc/edit?usp=sharing)
-
-[Classes](https://docs.python.org/3/tutorial/classes.html#classes)
-
-[Scopes and Namespaces](https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
-
-[Classes](https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes)
+[Working with APIs](./learn/03_api.ipynb)
