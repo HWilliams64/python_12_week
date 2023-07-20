@@ -93,7 +93,7 @@ the project.
 
 <img
 src="https://raw.githubusercontent.com/HWilliams64/summer_python_12_week/main/12_open_source/img/pygame-git.png"
-alt="Pygame's Github repository" width="400"/>
+alt="Pygame's Github repository" width="100%"/>
 
 *This is an image of Pygame's Github repository. The numbers are referenced in the list below*
 
