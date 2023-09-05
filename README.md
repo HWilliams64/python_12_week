@@ -1,10 +1,10 @@
-# Summer Intro to Python Course
+# Intro to Python Course
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ## Course Overview
 
-Welcome to the Summer Python Course repository! This comprehensive Intro Python
+Welcome to the Intro Python Course repository! This comprehensive Intro Python
 Programming course is designed to provide students with a solid
 foundation in Python programming. Whether you're a beginner or have some
 programming experience, this course will equip you with the essential knowledge
